@@ -23,7 +23,7 @@ p {
 
 .card {
 	background-color: white;
-	width: 384px;
+	width: 320px;
 	padding: 23px;
 	border-radius: 20px;
 	font-weight: 800;
@@ -35,7 +35,7 @@ p {
 
 .graphic {
 	border-radius: 10px;
-	width: 384px;
+	width: 320px;
 }
 
 .label {
@@ -57,7 +57,7 @@ p {
 }
 
 a {
-	font-size: 28px;
+	font-size: 23px;
 	font-weight: 800;
 	text-decoration: none;
 	color: black;
@@ -68,7 +68,6 @@ a:hover {
 }
 
 .description {
-	font-size: 18px;
 	color: hsl(0, 0%, 42%);
 	line-height: 1.5em;
 	margin-bottom: 30px;
@@ -85,6 +84,7 @@ a:hover {
 	width: 40px;
 }
 
-h4 {
+h1 {
 	font-weight: 800;
+	font-size: 18px;
 }
